@@ -1,5 +1,1 @@
-# REMOTE
-<<<<<<< HEAD
-LOCAL
-=======
-REMOTE
+# LOCAL
